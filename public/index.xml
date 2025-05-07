@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vee (PurposeUnknown)</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Vee (PurposeUnknown)</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 May 2025 10:17:21 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Failures, Finances, Frustrations and the Future</title>
+      <link>//localhost:1313/posts/first_post/</link>
+      <pubDate>Wed, 07 May 2025 10:17:21 -0700</pubDate>
+      <guid>//localhost:1313/posts/first_post/</guid>
+      <description>&lt;h3 id=&#34;im-about-to-be-in-a-great-spot-and-thats-terrifying&#34;&gt;I&amp;rsquo;m about to be in a great spot, and that&amp;rsquo;s terrifying.&lt;/h3&gt;&#xA;&lt;p&gt;Two years after a rough divorce, I&amp;rsquo;m goig to fully close that chapter of my life in the next few weeks. I&amp;rsquo;ve gone through the cycle of emotions that comes with that, I&amp;rsquo;m &lt;em&gt;not&lt;/em&gt; prepared for being in the best financial position I&amp;rsquo;ve ever been in, in my entire life. I&amp;rsquo;m not exactly proud of the path I took getting here, but I&amp;rsquo;m about to be free of a significant amount of stress.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>//localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/about/</guid>
+      <description>&lt;h2 id=&#34;who&#34;&gt;Who?&lt;/h2&gt;&#xA;&lt;p&gt;Me, I guess! I&amp;rsquo;m Vee:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;30something trans woman&lt;/li&gt;&#xA;&lt;li&gt;budding electronic musician&lt;/li&gt;&#xA;&lt;li&gt;works in the crypto industry&lt;/li&gt;&#xA;&lt;li&gt;biohacker, ageplayer, &lt;a href=&#34;https://www.youtube.com/@dojimafuturesexchange&#34; target=&#34;_blank&#34;&gt;former podcaster&lt;/a&gt;, transhumanist&lt;/li&gt;&#xA;&lt;li&gt;relative fan of technologies like cryptocurrency, VR and AI&lt;/li&gt;&#xA;&lt;li&gt;nonprofit volunteer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what&#34;&gt;What?&lt;/h2&gt;&#xA;&lt;p&gt;This is my blog / personal website. It&amp;rsquo;s (probably) where I&amp;rsquo;ll post personal musings, longer-form content, possibly helpful guides to weird personal one-off projects of mine, and so on.&lt;/p&gt;&#xA;&lt;h2 id=&#34;where&#34;&gt;Where?&lt;/h2&gt;&#xA;&lt;p&gt;If I&amp;rsquo;m not &lt;a href=&#34;https://vrchat.com/home/user/usr_9a126e50-56b0-497e-bea4-ecee3d9cf7c0&#34; target=&#34;_blank&#34;&gt;wandering virtual worlds&lt;/a&gt;, I&amp;rsquo;m probably somewhere in Northern California.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

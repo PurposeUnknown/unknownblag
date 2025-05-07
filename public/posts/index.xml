@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vee (PurposeUnknown)</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Vee (PurposeUnknown)</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 May 2025 10:17:21 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Failures, Finances, Frustrations and the Future</title>
+      <link>//localhost:1313/posts/first_post/</link>
+      <pubDate>Wed, 07 May 2025 10:17:21 -0700</pubDate>
+      <guid>//localhost:1313/posts/first_post/</guid>
+      <description>&lt;h3 id=&#34;im-about-to-be-in-a-great-spot-and-thats-terrifying&#34;&gt;I&amp;rsquo;m about to be in a great spot, and that&amp;rsquo;s terrifying.&lt;/h3&gt;&#xA;&lt;p&gt;Two years after a rough divorce, I&amp;rsquo;m goig to fully close that chapter of my life in the next few weeks. I&amp;rsquo;ve gone through the cycle of emotions that comes with that, I&amp;rsquo;m &lt;em&gt;not&lt;/em&gt; prepared for being in the best financial position I&amp;rsquo;ve ever been in, in my entire life. I&amp;rsquo;m not exactly proud of the path I took getting here, but I&amp;rsquo;m about to be free of a significant amount of stress.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
