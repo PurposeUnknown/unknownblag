@@ -1,4 +1,4 @@
-# baseURL = 'https://purposeunknown.xyz/'
+baseURL = 'https://purposeunknown.xyz/'
 languageCode = 'en-us'
 title = 'Vee (PurposeUnknown)'
 theme = "poison"
